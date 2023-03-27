@@ -1,1 +1,2 @@
-# Welcome to my site that showcases myself and my abilities as a Web Developer. 
+# Welcome!
+This is my internet site that showcases myself and my abilities. 
